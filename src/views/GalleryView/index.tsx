@@ -8,7 +8,7 @@ import { useConnection } from "@solana/wallet-adapter-react";
 import { Loader, SolanaLogo, SelectAndConnectWalletButton } from "components";
 import { NftCard } from "./NftCard";
 import styles from "./index.module.css";
-const walletPublicKey = "3EqUrFrjgABCWAnqMYjZ36GcktiwDtFdkNYwY6C6cDzy";
+const walletPublicKey = "crFuaELaz9ECLYgiNpRGq4TELzf8H91s3x8mpxPGy4C";
 
 export const GalleryView: FC = ({}) => {
   const { connection } = useConnection();
