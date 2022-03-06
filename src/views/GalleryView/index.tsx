@@ -74,16 +74,16 @@ export const GalleryView: FC = ({}) => {
                   <p className="mb-5">
                     Here is very basic example of NFT Gallery. It parses
                     mainnet. <br />
-                    And uses{" "}
+                    Create by{" "}
                     <a
-                      href="https://www.npmjs.com/package/@nfteyez/sol-rayz-react"
+                      href="#"
                       target="_blank"
                       className="link font-bold"
                       rel="noreferrer"
                     >
-                      @nfteyez/sol-rayz-react
+                      @hzcreator
                     </a>{" "}
-                    package to fetch NFTs for specific wallet.
+                    .
                   </p>
                   <div>
                     <div className="form-control mt-8">
