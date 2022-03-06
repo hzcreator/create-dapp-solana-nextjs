@@ -21,7 +21,7 @@ export const HomeView: FC = ({}) => {
             </button>
           </div>
           <div className="flex-1 px-2 mx-2">
-            <span className="text-lg font-bold">Caw Caw</span>
+            <span className="text-lg font-bold">Crypto Brains</span>
           </div>
           <div className="flex-none">
             <WalletMultiButton className="btn btn-ghost" />
@@ -36,9 +36,7 @@ export const HomeView: FC = ({}) => {
                   Hello Solana <SolanaLogo /> World!
                 </h1>
                 <p className="mb-5">
-                  This scaffold includes awesome tools for rapid development and
-                  deploy dapps to Solana: Next.JS, TypeScript, TailwindCSS,
-                  Daisy UI.
+                  Your source for Web3 / Crypto - NFT news, analysis & culture. In 5 years you’ll be wishing you paid more attention to this page..
                 </p>
                 <p className="mb-5">
                   Sollana wallet adapter is connected and ready to use.
@@ -51,7 +49,7 @@ export const HomeView: FC = ({}) => {
           </div>
 
           <div className="max-w-4xl mx-auto">
-            <h1 className="mb-5 pb-8 text-5xl">Templates:</h1>
+            <h1 className="mb-5 pb-8 text-5xl">Tools:</h1>
             <ul className="text-left leading-10">
               <li className="mb-5">
                 <Link href="/gallery">
